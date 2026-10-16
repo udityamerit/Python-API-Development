@@ -1,3 +1,44 @@
-.exe
+# Virtual Environments
+apidev/
 apivenv/
+venv/
+.venv/
+env/
+
+# Byte-compiled / optimized files
 __pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment variables
+.env
+.env.local
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows
+*.exe
+Thumbs.db
+Desktop.ini
